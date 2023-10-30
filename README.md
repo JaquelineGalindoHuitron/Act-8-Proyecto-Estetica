@@ -1,2 +1,2 @@
-# Act-8-proyecto-CRUD
-Estetica Jaqueline Galihuitron
+# Act-8-proyecto-Estetica
+Estetica Jaqueline Galindo huitron
