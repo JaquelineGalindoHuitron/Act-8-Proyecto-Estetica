@@ -1,2 +1,2 @@
 # Act-8-proyecto-Estetica
-Estetica Jaqueline Galindo huitron
+Estetica Jaqueline Galindo Huitron
